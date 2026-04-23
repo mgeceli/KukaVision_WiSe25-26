@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1771520716 source:/home/kukavision/kukavision/KukaVision/repo/KukaVision/Kaka_Projekt/Blob_Detection/SendCoords/main.cpp
+	<iostream>
+	<cstring>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<unistd.h>
+
